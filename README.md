@@ -207,8 +207,6 @@ kubectl --kubeconfig=$(CAPG_WORKER_CLUSTER_KUBECONFIG) apply -f https://docs.pro
 @echo 'run "kubectl --kubeconfig=$(CAPG_WORKER_CLUSTER_KUBECONFIG) ..." to work with the new target cluster'
 ```
 
-**Build GCP VM Image**
-
 ## Summary environment variables
 
 ```bash
